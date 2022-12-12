@@ -1,5 +1,11 @@
 # Source footage
 *.mp4
+*.gz
+
+ssd_resnet50_v1_fpn_640x640_coco17_tpu-8
+
+# Checkpoints
+*.data-00000-of-00001
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
